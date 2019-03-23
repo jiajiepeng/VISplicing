@@ -25,7 +25,7 @@ python plot.py test_files/chr18:9826168@chr18:9930662-9951252.p pickle settings_
 ## Sashimi plot
 
 <p align="center">
-<img src="https://github.com/jiajiepeng/VISplicing/blob/master/plots/chr18_sashimi.jpg" width="400"/>
+<img src="https://github.com/jiajiepeng/VISplicing/blob/master/plots/chr18%3A9826168@chr18%3A9930662-9951252.p_sashimi.svg" width="600"/>
 </p>
 
 
